@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, AI, Blockchain
 - 🌱 I’m currently learning Blockchain and AI
 - 💞️ I’m looking to collaborate on Blockchain and AI opportunities
-- 📫 How to reach me: By Mail :-)
+- 📫 How to reach me: By Linkedin, Mail and the usual tools :-)
 
 <!---
 MaPoi350/MaPoi350 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
